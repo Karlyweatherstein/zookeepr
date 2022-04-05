@@ -117,6 +117,17 @@
     },
     {
       "id": "13"
+    },
+    {
+      "name": "Kara",
+      "species": "Kangaroo",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "14"
     }
   ]
 }
